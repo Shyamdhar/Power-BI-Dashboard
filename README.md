@@ -1,7 +1,7 @@
-# Tesla Stock Sale Analysis Dashboard
+# Smoking Health Risk Analysis Dashboard
 
 ## Overview
-This project analyzes Tesla vehicle sales data using Power BI. The dashboard provides insights into vehicle pricing, mileage, accident history, and state-wise sales performance.
+This project analyzes the impact of smoking on health using Power BI. The dashboard helps identify smoking patterns, blood pressure risks, and demographic trends.
 
 ## Tools Used
 - Power BI
@@ -9,22 +9,21 @@ This project analyzes Tesla vehicle sales data using Power BI. The dashboard pro
 - Excel
 
 ## Features
-- Average Vehicle Price Analysis
-- State-wise Price Comparison
-- Accident vs Non-Accident Analysis
-- Average EMI Calculation
-- Odometer Analysis
-- Driver Assistance System (DAS) Insights
+- Smoking Status Analysis
+- Gender-wise Comparison
+- Blood Pressure Risk Analysis
+- Age Group Analysis
+- Smoking Duration Analysis
 
 ## Dashboard Preview
 
-![Dashboard](tesla_dashboard.png)
+![Dashboard](smoking_dashboard.png)
 
 ## Key Insights
-- 90% of vehicles had no accident history.
-- Tesla prices vary significantly across states.
-- Full Self-Driving models generally have higher prices.
-- Vehicle mileage affects resale value.
+- Most patients are non-smokers.
+- Smoking is associated with higher health risks.
+- Blood pressure risk varies across age groups.
+- Gender differences are visible in smoking behavior.
 
 ## Author
 Shyamdhar Sharma
